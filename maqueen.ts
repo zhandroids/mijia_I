@@ -40,7 +40,7 @@ namespace mijia_IR{
         if(alreadyInit==1){
             return
         }
-        initIR(Pins.P12)
+        initIR(Pins.P16)
         alreadyInit=1
     }
   
