@@ -1,6 +1,6 @@
 {
     "name": "MiJiaIR",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "米加盒子关于红外数据接收的扩展",
     "license": "MIT",
     "dependencies": {
