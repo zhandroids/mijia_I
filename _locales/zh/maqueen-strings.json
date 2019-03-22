@@ -1,5 +1,5 @@
 {
    
-    "maqueen.IR_callbackUser|block": "当接收到红外时运行",
-    "maqueen.IR_read|block": "红外的值"
+    "MiJiaIR.IR_callbackUser|block": "当接收到红外时运行",
+    "MiJiaIR.IR_read|block": "红外的值"
 }
