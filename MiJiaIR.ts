@@ -14,7 +14,7 @@ MicroSeconds
 }
 
 
-//% weight=10 color=#008B00 icon="\uf136" block="MiJiaIR"
+//% weight=10 color=#008B00 icon="\uf136" block="MiJiaI"
 namespace MiJiaIR{
   
     export class Packeta {
