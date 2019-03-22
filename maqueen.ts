@@ -15,7 +15,7 @@ MicroSeconds
 
 
 //% weight=10 color=#008B00 icon="\uf136" block="mijia_IR"
-namespace mijia_IR{
+namespace maqueen{
   
     export class Packeta {
         public mye: string;
