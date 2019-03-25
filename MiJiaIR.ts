@@ -52,13 +52,13 @@ namespace MiJiaIR{
     //% blockId=IR_callbackUser block="on obloq received"
     export function IR_callbackUser(maqueencb: (packet: Packeta) => void) {
         maqueenInit()
-        // IR_callback(() => {
-        //     const packet = new Packeta();
-        //     packet.mye = maqueene;
-        //     maqueenparam=getParam();
-        //     packet.myparam = maqueenparam;
-        //     maqueencb(packet)
-        // });
+        IR_callback(() => {
+            const packet = new Packeta();
+            packet.mye = maqueene;
+            maqueenparam=getParam();
+            packet.myparam = maqueenparam;
+            maqueencb(packet)
+        });
     }
     
     //% weight=10
